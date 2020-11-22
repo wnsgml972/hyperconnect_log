@@ -4,7 +4,7 @@
 
 __Archive__
 
-* Todo: 
+* [Archive](https://github.com/wnsgml972/career_log/blob/master/content/archive.md)
 
 __Daily Develop__
 
