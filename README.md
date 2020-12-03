@@ -10,5 +10,5 @@ __Archive__
 
 __Activities__
 
-* [커뮤니티 글또!](https://www.notion.so/ac5b18a482fb4df497d4e8257ad4d516)
-* [oss 2020 contest general section: MPSec](https://www.oss.kr/festival/award)
+* [Community Geultto 5th](https://www.notion.so/ac5b18a482fb4df497d4e8257ad4d516)
+* [OSS 2020 contest general section: MPSec](https://www.oss.kr/festival/award)
