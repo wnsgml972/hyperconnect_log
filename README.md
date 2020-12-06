@@ -6,7 +6,7 @@ __Daily Develop__
 
 __Archive__
 
-* [Archive](https://github.com/wnsgml972/career_log/blob/master/content/archive.md)
+* [Archive](https://www.notion.so/wnsgml972/Archive-573e07659f0d45dcbeaf2e56eb721e1c)
 
 __Activities__
 
